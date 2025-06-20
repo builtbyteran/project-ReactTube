@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "jrLgj0XGHegO7nztkfHkqGu_dmo",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_u6iNohbaCS0HY1o5Swm-MBtufA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lOV1pF2bMtQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-05T22:45:02Z",
+        "channelId": "UCUHYM7gs-GZpRGEsskTEqzQ",
+        "title": "I Searched For EVERY Illustration Rare Pokemon Card!",
+        "description": "In this Pokemon cards opening, I open every set from the Scarlet & Violet era in the hopes of pulling as many IRs and SIRs that I ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lOV1pF2bMtQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lOV1pF2bMtQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lOV1pF2bMtQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PokeRev",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-05T22:45:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uTvhTJYcOz9IIm3n0AlcqQimKNs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hgsOm9y5gzA"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-01T23:37:23Z",
+        "channelId": "UCY4xpHkk6y-cBmdjWzwPANg",
+        "title": "I Pressed a Store Owner for Pokemon to Feed My Addiction..",
+        "description": "SUBSCRIBE TO THE CHANNEL AND FOLLOW THE TWITCH: https://www.twitch.tv/kaneljoseph Merch: https://kaneljoseph.com/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hgsOm9y5gzA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hgsOm9y5gzA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hgsOm9y5gzA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Eugene DingleBerry",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-01T23:37:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gO-2J0uQjvduDqA0e2U3KmBWW7g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Fr4yG-UxkYM"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-11T22:34:54Z",
+        "channelId": "UCg58VABETp3QeEWSM-B4Sbg",
+        "title": "When Pokemon collectors start chasing a new card 💀",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fr4yG-UxkYM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fr4yG-UxkYM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fr4yG-UxkYM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tiger Rock Games",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-11T22:34:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rTWQiINhG_ArGtR7eZINoL4yqxg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_NpdAEmG6VI"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-14T00:30:28Z",
+        "channelId": "UCNIdRzrT-T2xCiocfPhLclg",
+        "title": "Is this Pokemon Card Worth it? Episode 1",
+        "description": "Disclaimer: This video is not made for kids. It may contain swearing. It is made for adult trading card collectors. Nothing in my ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_NpdAEmG6VI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_NpdAEmG6VI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_NpdAEmG6VI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "100 Charizards",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-11-14T00:30:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-_BJZ7qZzWlNqL3hvMjtjOPkHDU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "puA7YLc_O24"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-27T15:30:24Z",
+        "channelId": "UCNo2qa0JHCpcvYWC7drTGSA",
+        "title": "Trading Common Pokemon Cards for RARE Cards! (Surprising Kids) #game #reaction #pokemon #givingback",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/puA7YLc_O24/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/puA7YLc_O24/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/puA7YLc_O24/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Poke_Ballers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-27T15:30:24Z"
+      }
+    }
+  ]
+}
