@@ -27,6 +27,7 @@ export default function Home() {
 
     axios
         // .get(url, { params })
+// The above grabs data from api, below grabs data from ./data.json
         .get('./data.json', { params })
         .then((response) => {
           console.log(response.data.items);
