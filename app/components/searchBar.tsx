@@ -1,3 +1,14 @@
+'use client';
+import { Form } from 'react-bootstrap';
+
+export default function SearchBar() {
+  return (
+    <div className="search-bar">
+      <Form.Control />
+    </div>
+  );
+}
+
 // 'use client';
 // import React from 'react';
 // import { useState } from 'react';
