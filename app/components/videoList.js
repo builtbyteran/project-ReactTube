@@ -1,4 +1,3 @@
-import React from "react";
 import { VideoListItem } from './videoListItem';
 
 export const VideoList = ({ videos, onVideoSelect }) => {

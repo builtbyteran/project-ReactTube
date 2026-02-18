@@ -1,5 +1,3 @@
-import React from 'react';
-
 export const VideoDetail = ({ video }) => {
   if (!video) {
     return (
@@ -23,5 +21,3 @@ export const VideoDetail = ({ video }) => {
     </div>
   );
 }
-
-export default VideoDetail;

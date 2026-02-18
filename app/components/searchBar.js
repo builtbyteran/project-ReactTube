@@ -1,17 +1,4 @@
-// 'use client';
-// import { Form } from 'react-bootstrap';
-
-// export default function SearchBar() {
-//   return (
-//     <div className="search-bar">
-//       <Form.Control />
-//     </div>
-//   );
-// }
-
-'use client';
-import React, { useEffect } from 'react';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useDebounce } from './useDebounce';
 
 export const SearchBar = ({ onSearchTermChange }) => {
@@ -22,12 +9,9 @@ export const SearchBar = ({ onSearchTermChange }) => {
     onSearchTermChange(debounceQuery);
   }, [debounceQuery]);
 
-  // console.log(term);
-
   return (
     <div className='search-bar'>
       <input
-      // onChange={ (e) => setTerm(e.target.value)} value={term}
       value={term}
       onChange={ (event) => {
         setTerm(event.target.value);
@@ -36,5 +20,3 @@ export const SearchBar = ({ onSearchTermChange }) => {
     </div>
   );
 }
-
-// export default SearchBar;
